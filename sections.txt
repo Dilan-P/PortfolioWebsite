@@ -1,0 +1,70 @@
+About Me:
+    "I'm a Computer Scientist who enjoys designing and building new things."
+
+        Latest Experience:           Data Science Intern @ Renault F1
+            Start-Date:             Aug 2019
+            End-Date:               None
+        Degree:                     MEng Computer Science @ UCL
+            Expected-Graduation:    July 2021
+        Current City:               Oxford
+        Email:                      dilan@dilanp.com
+        Resume:                     resume.pdf
+        Socials:                    @aguynameddilan
+
+Skills:
+    Communication:
+        I am a confident speaker who is able to effectively share ideas with audiences of any size. Through previous
+        experience, I am capable of communicating new or complex ideas both verbally and visually.
+
+    Organisation:
+        I am a well organised individual capable of working towards deadlines and maintaining a structured work flow.
+
+    Teamwork:
+        I am able to collaborate on projects effectively as part of a team. I am able to confidently share my thoughts and
+        am able to adjust to new work scenarios efficiently.
+
+    Programming Languages:
+        I am proficient in a number of programming languages including C, Java and Python. I am also able to quickly
+        learn and adapt to languages and technologies I have not used before if necessary for new challenges.
+
+Previous Experience:
+    Software Engineer Intern @ Urban Mobility Labs
+    (Jun 2019-Aug 2019, London)
+        Lead the development of realistic pedestrian simulation software using the Unity game engine. Contributed
+        to the creation of realistic 3D environments and control systems for the development of transport planning systems.
+            > Created core scripts for pedestrian behaviours.
+            > Responsible for documentation of progress and major milestones.
+            > Released first build of software showcasing key framework for future developments.
+
+    Engineering Tutor @ UCL
+    (Sep 2017 - Jun 2019, London)
+        Worked as a mathematics and physics tutor supporting GCSE students prepare for exams. Work involved planning tailored,
+        1-on-1 sessions for students to enhance their understanding of complex subjects and ensure understanding of core ideas.
+            > Helped students improve from predicted grade C to grade A.
+            > Provided insights into STEM subjects at higher education levels.
+
+
+    Software Developer @ Microsoft Cities Unlocked
+    (Sep 2017 - Jun 2018)
+        Assisted in the development of an iOS augmented reality game for the visually impaired in collaboration with Microsoft.
+        Contributed throughout the development cycle, including user requirement formation, prototyping, and deployment of final
+        solution.
+            > Developed iOS front-end for the application.
+            > Documented progress through bi-weekly reports presented to Microsoft.
+            > Extensive research into solution space and effective app creation.
+
+Education:
+    MEng Computer Science @ UCL
+    (Jun 2016 - Present, London)
+        Relevant Classes:
+            > Principle of Programming
+            > Object-Oriented Programming
+            > Discrete Mathematics for Computer Scientists
+            > Computer Architecture and Concurrency
+            > Logic and Database Theory
+            > Software Engineering and Human Computer Interaction
+            > Compilers
+            > Computability and Complexity Theory
+            > Computer Systems
+            > Networked Systems
+            > Machine Learning for Behavioural Analytics: Predicting Human Behaviour
