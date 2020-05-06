@@ -53,6 +53,15 @@ p{
     padding-right: 25px;
 }
 
+.aboutMe a{
+    color: #fcfaf6;
+    text-decoration: none;
+}
+.aboutMe a:visited{
+    color: #fcfaf6;
+    text-decoration: none;   
+}
+
 .skills{
     line-height: 1;
 }
