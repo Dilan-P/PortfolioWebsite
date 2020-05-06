@@ -1,6 +1,116 @@
 *{
     /*Ensure all text on the website has the same font*/
-    
+
     font-family: Menlo;
+    font-size: 95%;
+}
+
+body{
+    background-color: #E5E3DC;
+}
+
+h1{
+    font-size: 125%;
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+
+h2{
     font-size: 100%;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+h3{
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 90%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+
+.aboutMe{
+    background-color: #5D7092;
+    color: #fcfaf6;
+    width: 425px;
+    height: 150px;
+    border-radius: 18px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    box-shadow: 2px 7px 10px #888888;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.skills{
+    line-height: 1;
+}
+
+
+/*Color Palette*/
+.colorPalette{
+    width: 600px;
+    height: 120px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.colorPalette_lightShades{
+    width: 100px;
+    height: 90px;
+    background-color: #E5E3DC;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+    margin-right: 20px;
+    border: 2px solid black;
+}
+.colorPalette_lightAccent{
+    width: 100px;
+    height: 90px;
+    background-color: #92A2B1;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+    margin-right: 20px;
+    border: 2px solid black;
+}
+.colorPalette_mainColor{
+    width: 100px;
+    height: 90px;
+    background-color: #6457A6;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+    margin-right: 20px;
+    border: 2px solid black;
+}
+.colorPalette_darkAccent{
+    width: 100px;
+    height: 90px;
+    background-color: #5D7092;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+    margin-right: 20px;
+    border: 2px solid black;
+}
+.colorPalette_darkShades{
+    width: 100px;
+    height: 90px;
+    background-color: #2A3339;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+    border: 2px solid black;
 }
